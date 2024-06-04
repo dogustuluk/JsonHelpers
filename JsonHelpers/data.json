@@ -1,0 +1,16 @@
+{
+  "Name": "Alice",
+  "Address": {
+    "City": "New York",
+    "Country": "USA"
+  },
+  "Hobbies": [
+    "Reading",
+    "Painting",
+    "Traveling"
+  ],
+  "Languages": {
+    "Primary": "English",
+    "Secondary": "French"
+  }
+}
